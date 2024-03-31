@@ -10,7 +10,7 @@
   ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg){ width=50 }
 
 - **C**  
-  ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg){ width=50 }
+  ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg, width=20)
 
 - **C++**  
   ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg, width=50 )
