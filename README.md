@@ -13,7 +13,7 @@
   ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg){ width=50 }
 
 - **C++**  
-  ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg){ width=50 }
+  ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg, width=50 )
 
 - **HTML**  
   ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){ width=50 }
