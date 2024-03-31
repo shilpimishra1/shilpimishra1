@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying Electronics and Communication Engineering at Banasthali Vidyapith
-- 🌱 I’m currently learning C++,C,Python,HTML
+🔭 I’m currently studying Electronics and Communication Engineering at Banasthali Vidyapith
+🌱 I’m currently learning C++,C,Python,HTML
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
