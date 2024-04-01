@@ -15,7 +15,7 @@
 
 
 ###
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilpimishra1&show_icons=true&bg_color=00000000)
 <h2 align="left">Tech Stacks</h2>
 
 ###
