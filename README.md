@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stacks</h2>
 
 ###
 
@@ -35,7 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Colab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecolab-original.svg" height="40" alt="Google Colab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/microsoftexcel-original.svg" height="40" alt="microsoft excel logo" />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/javascript-original.svg" height="40" alt="java script logo" />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/aurdino-original.svg" height="40" alt="aurdino logo" />
+  <img width="12" />
 </div>
 
 
