@@ -1,10 +1,4 @@
-<h1 align="left">Hey 👋 </h1>
-
-###
-
-<p align="left"><b> I'm Shilpi Mishra </b> </p>
-
-###
+<h1 align="left">Hey, I'm Shilpi Mishra 👋 </h1>
 
 <h2 align="left">About me</h2>
 
