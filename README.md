@@ -6,10 +6,10 @@
 
 - ✨ I'm studying Electronics and Communication from Banasthali Vidyapith.
 - 📚 I'm currently learning C, C++, Python, HTML 
-  🌟 Open to collaborations and project ideas  
-  💡 Always eager to learn new technologies  
-  🌐 Looking forward to connecting with like-minded individuals
-  📧 Reach me at: shilpimishra.149@gmail.com  
+- 🌟 Open to collaborations and project ideas  
+- 💡 Always eager to learn new technologies  
+- 🌐 Looking forward to connecting with like-minded individuals
+- 📧 Reach me at: shilpimishra.149@gmail.com  
 
 
 
