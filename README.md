@@ -4,8 +4,8 @@
 
 ###
 
-- ✨ I'm studying Electronics and Communication from Banasthali Vidyapith.
-- 📚 I'm currently learning C, C++, Python, HTML 
+- ✨ I'm pursuing B.Tech in Electronics and Communication from Banasthali Vidyapith.
+- 📚 I'm currently learning C, C++, Python 
 - 🌟 Open to collaborations and project ideas  
 - 💡 Always eager to learn new technologies  
 - 🌐 Looking forward to connecting with like-minded individuals
